@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 package Software::License::ISC;
-# VERSION
+our $VERSION = '0.002'; # VERSION
 
 use parent 'Software::License';
 # ABSTRACT: The ISC License
@@ -23,7 +23,7 @@ Software::License::ISC - The ISC License
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 AUTHOR
 
