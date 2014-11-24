@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 package Software::License::ISC;
-our $VERSION = '0.002'; # VERSION
+our $VERSION = '0.003'; # VERSION
 
 use parent 'Software::License';
 # ABSTRACT: The ISC License
@@ -15,15 +15,22 @@ sub meta2_name { 'open_source' }
 
 =pod
 
-=encoding UTF-8
-
 =head1 NAME
 
 Software::License::ISC - The ISC License
 
 =head1 VERSION
 
-version 0.002
+version 0.003
+
+=head1 BUGS
+
+Please report any bugs or feature requests on the bugtracker website
+https://github.com/zurborg/libsoftware-license-isc-perl/issues
+
+When submitting a bug or request, please include a test-file or a
+patch to an existing test-file that illustrates the bug or desired
+feature.
 
 =head1 AUTHOR
 

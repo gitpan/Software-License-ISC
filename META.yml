@@ -19,5 +19,10 @@ requires:
   warnings: '0'
 resources:
   bugtracker: https://github.com/zurborg/libsoftware-license-isc-perl/issues
+  homepage: https://github.com/zurborg/libsoftware-license-isc-perl
   repository: https://github.com/zurborg/libsoftware-license-isc-perl.git
-version: '0.002'
+version: '0.003'
+x_contributors:
+  - 'David Zurborg <post@david-zurb.org>'
+  - 'David Zurborg <zuborg@cpan.org>'
+  - 'Сергей Романов <sromanov-dev@yandex.ru>'
